@@ -1,0 +1,14 @@
+C:\Users\GSWETHA\gradebook\src\GradeBook\bin\Debug\net8.0\GradeBook.exe
+C:\Users\GSWETHA\gradebook\src\GradeBook\bin\Debug\net8.0\GradeBook.deps.json
+C:\Users\GSWETHA\gradebook\src\GradeBook\bin\Debug\net8.0\GradeBook.runtimeconfig.json
+C:\Users\GSWETHA\gradebook\src\GradeBook\bin\Debug\net8.0\GradeBook.dll
+C:\Users\GSWETHA\gradebook\src\GradeBook\bin\Debug\net8.0\GradeBook.pdb
+C:\Users\GSWETHA\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GSWETHA\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\GSWETHA\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.AssemblyInfo.cs
+C:\Users\GSWETHA\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\GSWETHA\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.dll
+C:\Users\GSWETHA\gradebook\src\GradeBook\obj\Debug\net8.0\refint\GradeBook.dll
+C:\Users\GSWETHA\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.pdb
+C:\Users\GSWETHA\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.genruntimeconfig.cache
+C:\Users\GSWETHA\gradebook\src\GradeBook\obj\Debug\net8.0\ref\GradeBook.dll
